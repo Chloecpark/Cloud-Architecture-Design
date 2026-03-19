@@ -6,6 +6,7 @@ Scalable & High-Availability Cloud Architecture on AWS
 This project focuses on designing and implementing a robust, scalable, and highly secure cloud infrastructure for a startup using Amazon Web Services (AWS). The primary goal was to build an environment capable of handling rapid growth, ensuring 24/7 availability, and maintaining high performance under fluctuating traffic patterns.
 
 🏗️ Architecture Diagram
+aws diagram.drawio.png
 
 🛠️ Key Tech Stack
 Compute: AWS Elastic Beanstalk, Amazon EC2 
